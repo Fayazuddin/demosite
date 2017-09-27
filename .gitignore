@@ -1,0 +1,6 @@
+demosite/.idea/*.iml
+demosite/.idea/*.xml
+demosite/.idea/
+demosite/__pycache__/
+.idea/
+*.pyc
