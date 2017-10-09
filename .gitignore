@@ -4,3 +4,4 @@ demosite/.idea/
 demosite/__pycache__/
 .idea/
 *.pyc
+db.sqlite3
